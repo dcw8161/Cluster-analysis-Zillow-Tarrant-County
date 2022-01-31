@@ -21,3 +21,4 @@ Data visualization was done by Tableau and SweetViz. Tableau link is as followed
 # Cluster analysis
 - PyCaret kmeans model was used for cluster analysis
 - Number of clusters were found using elbow method and elbow was found at k=5
+<img width="1311" alt="image" src="https://user-images.githubusercontent.com/48637798/151740569-f9727e5f-ce85-4374-8328-ea8ff4edab62.png">
