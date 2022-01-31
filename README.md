@@ -1,4 +1,4 @@
-# Cluster-analysis-Zillow-Tarrant-County
+# Cluster-analysis-Zillow-Tarrant-County Data
 Cluster analysis for Zillow Tarrant County dataset was performed and eventually to predict the real estate prices. 
 
 ## Data Preparation
