@@ -8,7 +8,7 @@ Cluster analysis for Zillow Tarrant County dataset was performed and eventually 
    - exterior_walls    11.842804
    - roof              18.799788
 
-Missing values are treated using their modes.
+- Missing values are treated using their modes.
 
 ## EDA
 - Highly correlated features were found and the first feature that is correlated with anything other feature was removed.
