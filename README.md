@@ -5,8 +5,8 @@ Cluster analysis for Zillow Tarrant County dataset was performed and eventually 
 - Total number of records = 1883
 
 - Missing value percentages for two variables as follows.
-   i.  exterior_walls    11.842804
-   ii. roof              18.799788
+   - exterior_walls    11.842804
+   - roof              18.799788
 
 Missing values are treated using their modes.
 
