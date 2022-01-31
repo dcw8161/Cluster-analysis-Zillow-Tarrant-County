@@ -33,4 +33,7 @@ Data visualization was done by Tableau and SweetViz. Tableau link is as followed
 - First,Machine learning model was performed for the entire dataset
 - Then, Machine learning Model was performed for the cluster 2 which has maximum data points assigned
 - Accuracies were compaired for bothe the models
-- 
+- AdaBoost Regressor model was build for the entire dataset while GradientBoost Regressor model was build for the selected cluster (cluster2). 
+- Acuuracy for the AdaBoost Regressor for the entire dataset: 41%
+- Accuracy for the GradientBoost Regressor for the cluster 2: 47%
+- Accuracy was increased with cluster analysis
